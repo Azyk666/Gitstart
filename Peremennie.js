@@ -1,5 +1,5 @@
 // Задача 1
-let num = '3';
+let num = 3;
 console.log(num);
 // Задача 2
 let a = 10;
